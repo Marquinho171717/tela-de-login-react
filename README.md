@@ -1,8 +1,31 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este é um projeto simples de tela de login desenvolvido em React.
 
-Currently, two official plugins are available:
+## 🚀 Tecnologias Utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React
+- HTML
+- CSS
+- JavaScript
+
+## 📋 Funcionalidades
+
+- **Input de usuário**: Permite a entrada de nome de usuário ou e-mail.
+- **Input de senha**: Campo para a senha do usuário.
+- **Validação básica**: Verificação dos campos obrigatórios.
+- **Botão de login**: Ação de submissão do formulário.
+
+## 🎯 Objetivo
+
+Este projeto foi desenvolvido para praticar conceitos de React, incluindo:
+
+- Criação de componentes funcionais.
+- Gerenciamento de estado usando hooks como `useState`.
+- Implementação de eventos, como `onSubmit`.
+
+## 📦 Como Rodar o Projeto
+
+1. Clone este repositório:
+   ```bash
+   https://github.com/Marquinho171717/tela-de-login-react.git
